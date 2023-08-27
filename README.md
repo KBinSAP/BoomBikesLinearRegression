@@ -32,4 +32,4 @@ Python
 
 
 ## Contact
-Created by [@KBinSAP]
+Created by @KBinSAP
